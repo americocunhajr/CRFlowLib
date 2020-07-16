@@ -1,5 +1,7 @@
 # Chemically Reacting Flow Library
 
+<img src="logo/CRFlowLib.png" width="40%">
+
 **CRFlowLib** is a collection of computational libraries with routines to simulate chemically reacting flows employing In Situ Adaptive Tabulation (ISAT) algorithm for thermochemistry calculation.
 
 ## Software History
