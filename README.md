@@ -78,7 +78,7 @@ The following Chenkin-II libraries are necessary:
 - ckstrt.h
 
 
-## Reaction Mechanisms
+## Reaction Mechanisms (CK-II format)
 
 This repository stores a collection of thermochemistry mechanisms in Chemkin-II format. These kinetic mechanisms were developed by several research groups that works in the simulation of chemically reactive flows. This collection is the result of more than 15 years of search. All of these mechanisms were made available, at some time, on the Internet or in specialized literature. 
 
