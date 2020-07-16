@@ -57,16 +57,18 @@ See the Makefile for further details.
 
 ........................ CRFlowLib-2.0 ........................
 
-* GNU Scientific Library 2.6
+* GNU Scientific Library 2.6  (open source)
 
-Open source library, available at: https://www.gnu.org/software/gsl/
+Available at: https://www.gnu.org/software/gsl/
 
-* CVODE 5.0.0, which is part of SUNDIALS 5.0.0
-Open source library, available at: https://computing.llnl.gov/projects/sundials
+* CVODE 5.0.0, which is part of SUNDIALS 5.0.0  (open source)
 
-* Chenkin-II
+Available at: https://computing.llnl.gov/projects/sundials
 
-Proprietary software, you need to obtain its routines by yourself.
+* Chenkin-II  (proprietary software)
+
+Once this code is proprietary, you need to obtain its routines by yourself.
+
 The following Chenkin-II libraries are necessary:
 - cklib.f
 - ckinterp.f
@@ -100,8 +102,10 @@ The following Chenkin-II libraries are necessary:
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
 
-- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.* http://dx.doi.org/10.1007/s40430-013-0080-4
-- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* https://doi.org/10.17771/PUCRio.acad.17685
+- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.* 
+http://dx.doi.org/10.1007/s40430-013-0080-4
+- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* 
+https://doi.org/10.17771/PUCRio.acad.17685
 
 ## License
 
