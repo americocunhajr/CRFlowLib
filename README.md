@@ -12,7 +12,7 @@ The PDF of this thesis is available for free at: https://hal.archives-ouvertes.f
 
 The results of this thesis were disclosed in the following publication:
 
-- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.* http://dx.doi.org/10.1007/s40430-013-0080-4
+- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 36, pp. 377-391, 2014.* http://dx.doi.org/10.1007/s40430-013-0080-4
  
 The PDF of this article is available for free at: https://hal.archives-ouvertes.fr/hal-01438646
 
