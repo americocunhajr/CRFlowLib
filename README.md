@@ -55,7 +55,7 @@ See the Makefile for further details.
 
 ## External Dependencies
 
-#### CRFlowLib-2.0
+#### CRFlowLib-2.0 --- updated implementation
 
 * GNU Scientific Library 2.6  (open source) --- https://www.gnu.org/software/gsl/
 * CVODE 5.0.0, which is part of SUNDIALS 5.0.0 (open source) --- https://computing.llnl.gov/projects/sundials
@@ -67,7 +67,7 @@ The following Chenkin-II libraries are necessary:
 - ckstrt.h
 
 
-#### CRFlowLib-1.0
+#### CRFlowLib-1.0 --- original implementation
 
 * GNU Scientific Library 1.12 (open source) --- https://www.gnu.org/software/gsl/
 * CVODE 2.5.0, which is part of SUNDIALS 2.3.0 (open source) --- https://computing.llnl.gov/projects/sundials
