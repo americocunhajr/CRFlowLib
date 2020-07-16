@@ -55,15 +55,11 @@ See the Makefile for further details.
 
 #### CRFlowLib-2.0
 
-* GNU Scientific Library 2.6  (open source)
-* CVODE 5.0.0 (open source)
-* Chenkin-II  (proprietary software)
+* GNU Scientific Library 2.6  (open source) --- https://www.gnu.org/software/gsl/
+* CVODE 5.0.0, which is part of SUNDIALS 5.0.0 (open source) --- https://computing.llnl.gov/projects/sundials
+* Chenkin-II  (proprietary software) --- Once this code is proprietary, you need to obtain its routines by yourself.
 
-The GNU Scientific Library 2.6 is available for free at: https://www.gnu.org/software/gsl/
-
-CVODE 5.0.0, which is part of SUNDIALS 5.0.0, is available for free at: https://computing.llnl.gov/projects/sundials
-
-Once Chenkin-II is proprietary, you need to obtain its routines by yourself. The following Chenkin-II libraries are necessary:
+The following Chenkin-II libraries are necessary:
 - cklib.f
 - ckinterp.f
 - ckstrt.h
