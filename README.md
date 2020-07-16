@@ -6,15 +6,13 @@
 
 **CRFlowLib** is the result of a master's thesis:
 
-- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* 
-https://doi.org/10.17771/PUCRio.acad.17685
+- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* https://doi.org/10.17771/PUCRio.acad.17685
  
 The PDF of this thesis is available for free at: https://hal.archives-ouvertes.fr/tel-01541173
 
 The results of this thesis were disclosed in the following publication:
 
-- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.* 
-http://dx.doi.org/10.1007/s40430-013-0080-4
+- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.* http://dx.doi.org/10.1007/s40430-013-0080-4
  
 The PDF of this article is available for free at: https://hal.archives-ouvertes.fr/hal-01438646
 
@@ -53,29 +51,25 @@ To run a specific program type: make run_program-title
 
 See the Makefile for further details.
 
-## VI - External Dependencies
+## External Dependencies
 
-........................ CRFlowLib-2.0 ........................
+#### CRFlowLib-2.0
 
 * GNU Scientific Library 2.6  (open source)
-
-Available at: https://www.gnu.org/software/gsl/
-
-* CVODE 5.0.0, which is part of SUNDIALS 5.0.0  (open source)
-
-Available at: https://computing.llnl.gov/projects/sundials
-
+* CVODE 5.0.0 (open source)
 * Chenkin-II  (proprietary software)
 
-Once this code is proprietary, you need to obtain its routines by yourself.
+The GNU Scientific Library 2.6 is available for free at: https://www.gnu.org/software/gsl/
 
-The following Chenkin-II libraries are necessary:
+CVODE 5.0.0, which is part of SUNDIALS 5.0.0, is available for free at: https://computing.llnl.gov/projects/sundials
+
+Once Chenkin-II is proprietary, you need to obtain its routines by yourself. The following Chenkin-II libraries are necessary:
 - cklib.f
 - ckinterp.f
 - ckstrt.h
 
 
-........................ CRFlowLib-1.0 ........................
+#### CRFlowLib-1.0
 
 * GNU Scientific Library 1.12 (open source)
 
@@ -102,10 +96,8 @@ The following Chenkin-II libraries are necessary:
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
 
-- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.* 
-http://dx.doi.org/10.1007/s40430-013-0080-4
-- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* 
-https://doi.org/10.17771/PUCRio.acad.17685
+- *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 36, pp. 377-391, 2014.*  http://dx.doi.org/10.1007/s40430-013-0080-4
+- *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* https://doi.org/10.17771/PUCRio.acad.17685
 
 ## License
 
