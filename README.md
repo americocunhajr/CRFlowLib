@@ -85,12 +85,12 @@ This repository stores a collection of thermochemistry mechanisms in Chemkin-II 
 The repository owner makes them available here with the intention that they may be useful for researchers interested in the topic. Unfortunately, no guarantee can be given regarding the integrity of the files or the accuracy of the mechanisms. Use it at your own risk!
 
 
-## Authors:
+## Authors
 - Americo Cunha (UERJ) - www.americocunha.org
 - Luis Fernando Figueira da Silva (PUC-Rio)
 
 
-## Citing **CRFlowLib**:
+## Citing
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
 
