@@ -86,7 +86,7 @@ The repository owner makes them available here with the intention that they may 
 
 
 ## Authors
-- Americo Cunha (UERJ) - www.americocunha.org
+- Americo Cunha (UERJ)
 - Luis Fernando Figueira da Silva (PUC-Rio)
 
 
