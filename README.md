@@ -78,7 +78,7 @@ The repository owner makes them available here with the intention that they may 
 - Americo Cunha (UERJ)
 - Luis Fernando Figueira da Silva (PUC-Rio)
 
-## Citing
+## Citing CRFlowLib
 
 We kindly ask users to cite the following references in any publications reporting work done with **CRFlowLib**:
 - *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 36, pp. 377-391, 2014.*  http://dx.doi.org/10.1007/s40430-013-0080-4
