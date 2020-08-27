@@ -1,0 +1,63 @@
+=================================
+ Syntax of CRFlowLib input files
+=================================
+
+
+*** chem.inp ***
+******************************************
+  chemical elemets
+  chemical species
+  chemical reactions
+******************************************
+
+
+*** pmsr-di.inp ***
+******************************************
+  statistical seed
+  # of particles
+  # of time steps
+  initial time
+  time step
+  residence time
+  pairwise time
+  exchange time
+  temperature upper bound (K)
+  temperature lower bound (K)
+  solver absolute tolerance
+  solver relative tolerance
+  inflow mixture temperature (K)
+  inflow mixture pressure (atm)
+  inflow mixture species (# of moles)
+  END
+  inflow mixture temperature (K)
+  inflow mixture pressure (atm)
+  inflow mixture species (# of moles)
+  END
+******************************************
+
+
+*** pmsr-isat.inp ***
+******************************************
+  max. of tree leaves
+  ISAT tolerance
+  statistical seed
+  # of particles
+  # of time steps
+  initial time
+  time step
+  residence time
+  pairwise time
+  exchange time
+  temperature upper bound (K)
+  temperature lower bound (K)
+  solver absolute tolerance
+  solver relative tolerance
+  inflow mixture temperature (K)
+  inflow mixture pressure (atm)
+  inflow mixture species (# of moles)
+  END
+  inflow mixture temperature (K)
+  inflow mixture pressure (atm)
+  inflow mixture species (# of moles)
+  END
+******************************************
