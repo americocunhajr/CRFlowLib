@@ -82,6 +82,27 @@ We kindly ask users to cite the following references in any publications reporti
 - *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 36, pp. 377-391, 2014.*  http://dx.doi.org/10.1007/s40430-013-0080-4
 - *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* https://doi.org/10.17771/PUCRio.acad.17685
 
+```
+@article{CunhaJr2014p377,
+   author  = {A. {Cunha~Jr} and L. F. {Figueira da Silva}},
+   title   = {Assessment of a transient homogeneous reactor through in situ adaptive tabulation},
+   journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
+   year    = {2014},
+   volume  = {36},
+   pages   = {377-391},
+   doi     = {http://dx.doi.org/10.1007/s40430-013-0080-4},
+} 
+
+@mastersthesis{CunhaJr2010msc,
+   author       = {A. {Cunha~Jr}}, 
+   title        = {Reduction of Complexity in Combustion Thermochemistry},
+   school       = {PUC-Rio},
+   year         = {2010},
+   address      = {Rio de Janeiro},
+   note         = {https://doi.org/10.17771/PUCRio.acad.17685},
+}
+```
+
 ## License
 
 **CRFlowLib** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
