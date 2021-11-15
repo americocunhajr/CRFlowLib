@@ -6,10 +6,6 @@
 
 **CRFlowLib** routines are commented in order to explain their functionality to the final user. Each routine has a short description about its purpose, and a list of inputs and/or outputs.
 
-## Reproducibility
-
-Simulations done with **CRFlowLib** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5542575/tree" target="_blank">CodeOcean capsule</a>
-
 ## Software History
 
 **CRFlowLib** is the result of a master's thesis:
@@ -23,7 +19,6 @@ The results of this thesis were disclosed in the following publication:
 - *A. Cunha Jr and L. F. Figueira da Silva, Assessment of a transient homogeneous reactor through in situ adaptive tabulation, Journal of the Brazilian Society of Mechanical Sciences and Engineering, v. 36, pp. 377-391, 2014.* http://dx.doi.org/10.1007/s40430-013-0080-4
  
 The PDF of this article is available for free at: https://hal.archives-ouvertes.fr/hal-01438646
-
 
 ## Compilation
 
@@ -76,6 +71,10 @@ The following Chenkin-II libraries are necessary:
 This repository stores a collection of thermochemistry mechanisms in Chemkin-II format. These kinetic mechanisms were developed by several research groups that works in the simulation of chemically reactive flows. This collection is the result of more than 15 years of search. All of these mechanisms were made available, at some time, on the Internet or in specialized literature. 
 
 The repository owner makes them available here with the intention that they may be useful for researchers interested in the topic. Unfortunately, no guarantee can be given regarding the integrity of the files or the accuracy of the mechanisms. Use it at your own risk!
+
+## Reproducibility
+
+Simulations done with **CRFlowLib** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5542575/tree" target="_blank">CodeOcean capsule</a>
 
 ## Authors
 - Americo Cunha (UERJ)
