@@ -8,7 +8,7 @@
 
 ## Reproducibility
 
-The results published with **CRFlowLib** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5542575/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **CRFlowLib** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5542575/tree" target="_blank">CodeOcean capsule</a>
 
 ## Software History
 
