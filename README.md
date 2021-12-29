@@ -87,6 +87,16 @@ We kindly ask users to cite the following references in any publications reporti
 - *A. Cunha Jr, Reduction of Complexity in Combustion Thermochemistry, PUC-Rio, Master Thesis, 2010* https://doi.org/10.17771/PUCRio.acad.17685
 
 ```
+@article{CunhaJr2021p100206,
+   author  = {A. {Cunha~Jr} and L. F. {Figueira da Silva}},
+   title   = {CRFlowLib --- Chemically Reacting Flow Library},
+   journal = {Software Impacts},
+   year    = {2021},
+   volume  = {~},
+   pages   = {100206},
+   doi     = {https://doi.org/10.1016/j.simpa.2021.100206},
+} 
+
 @article{CunhaJr2014p377,
    author  = {A. {Cunha~Jr} and L. F. {Figueira da Silva}},
    title   = {Assessment of a transient homogeneous reactor through in situ adaptive tabulation},
