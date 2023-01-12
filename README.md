@@ -131,7 +131,7 @@ We kindly ask users to cite the following references in any publications reporti
 
 ## Institutional support
 
-<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_pucrio_color.jpg" width="07%"> &nbsp; &nbsp; <img src="logo/logo_pprime_color.jpeg" width="07%">
+<img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_pucrio_color.jpg" width="07%"> &nbsp; &nbsp; <img src="logo/logo_pprime_color.jpeg" width="15%">
 
 ## Funding
 
