@@ -79,7 +79,7 @@ Simulations done with **CRFlowLib** are fully reproducible, as can be seen on th
 
 ## Authors
 - Americo Cunha (UERJ)
-- Luis Fernando Figueira da Silva (PUC-Rio)
+- Luis Fernando Figueira da Silva (PUC-Rio / Institut Pprime)
 
 ## Citing CRFlowLib
 
