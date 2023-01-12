@@ -97,8 +97,10 @@ We kindly ask users to cite the following references in any publications reporti
    volume  = {11},
    pages   = {100206},
    doi     = {https://doi.org/10.1016/j.simpa.2021.100206},
-} 
+}
+```
 
+```
 @article{CunhaJr2014p377,
    author  = {A. {Cunha~Jr} and L. F. {Figueira da Silva}},
    title   = {Assessment of a transient homogeneous reactor through in situ adaptive tabulation},
@@ -107,8 +109,10 @@ We kindly ask users to cite the following references in any publications reporti
    volume  = {36},
    pages   = {377-391},
    doi     = {http://dx.doi.org/10.1007/s40430-013-0080-4},
-} 
+}
+```
 
+```
 @mastersthesis{CunhaJr2010msc,
    author       = {A. {Cunha~Jr}}, 
    title        = {Reduction of Complexity in Combustion Thermochemistry},
