@@ -75,7 +75,7 @@ The repository owner makes them available here with the intention that they may 
 
 ## Reproducibility
 
-Simulations done with **CRFlowLib** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/5542575/tree" target="_blank">CodeOcean capsule</a>
+Simulations done with **CRFlowLib** are fully reproducible, as can be seen on this <a href="https://codeocean.com/capsule/2804669/tree/v1" target="_blank">CodeOcean capsule</a>
 
 ## Authors
 - Americo Cunha (UERJ)
