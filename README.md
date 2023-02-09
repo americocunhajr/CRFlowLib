@@ -4,8 +4,7 @@
 
 ## Documentation
 
-**CRFlowLib** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs.
-
+**CRFlowLib** routines are commented to explain their functionality to the final user. Each routine has a short description of its purpose and a list of inputs and/or outputs. The users can use the file "main__pmsr-isat.c" as a baseline to define their own simulation problem.
 
 ## Software History
 
